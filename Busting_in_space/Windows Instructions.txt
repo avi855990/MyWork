@@ -1,0 +1,33 @@
+Busting in Space - Windows Instructions
+
+1. Download or receive the file:
+   Busting in space.zip
+
+2. Right-click the zip file.
+
+3. Click:
+   Extract All...
+
+4. Click:
+   Extract
+
+5. Open the extracted folder:
+   Busting in space
+
+6. Double-click:
+   Busting in Space Windows.bat
+
+7. Wait while the game prepares itself.
+   The first run may take a few minutes.
+
+8. If Windows asks for permission, allow it.
+   The launcher may need internet access to download Python and install the game tools.
+
+9. When it finishes, the game will open automatically.
+
+After the first successful run, you can usually just double-click:
+Busting in Space Windows.bat
+
+Important:
+Do not run the .bat file from inside the zip preview.
+Always use Extract All first.
